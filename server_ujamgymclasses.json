@@ -1,0 +1,43 @@
+{ "gyms" : 
+	[
+{ "address" : "4450 Norris Canyon Road, San Ramon, CA 94583",
+        "ujamClasses" : [ { "day" : "Mon",
+              "instructor" : "Chin",
+              "time" : "8:15pm"
+            },
+            { "day" : "Tues",
+              "instructor" : "Martin",
+              "time" : "4:30pm"
+            },
+            { "day" : "Wed",
+              "instructor" : "Khazz",
+              "time" : "8:15pm"
+            }
+          ],
+        "latitude" : 37.773960000000002,
+        "longitude" : -121.9702431,
+        "name" : "24 Hour Fitness -- San Ramon",
+        "telephone" : "(925) 244-9855"
+      },
+  { "address" : "2650 Kittyhawk Road, Livermore, CA 94551",
+        "ujamClasses" : [ { "day" : "Wed",
+              "instructor" : "Jess",
+              "time" : "8:15pm"
+            } ],
+        "latitude" : 37.6995012,
+        "longitude" : -121.81454309999999,
+        "name" : "24 Hour Fitness -- Livermore",
+        "telephone" : "(925) 244-9855"
+      },
+  { "address" : "4770 Willow Road, Pleasanton, CA 94588",
+        "ujamClasses" : [ { "day" : "Tues",
+              "instructor" : "Gina",
+              "time" : "7:15pm"
+            } ],
+        "latitude" : 37.697920799999999,
+        "longitude" : -121.8990452,
+        "name" : "24 Hour Fitness -- Pleasanton",
+        "telephone" : "(925) 463-1515"
+      }
+      ]
+}

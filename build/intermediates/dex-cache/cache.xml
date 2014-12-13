@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pngai/Projects/UJamFitness/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/classes-30332908523f11dd14cbb46c4527db16c5463a24.jar" />
+    </item>
+    <item
+        jar="/tools/java/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-898bd991a2670f51aa2024ffed1ab471837d61b2.jar" />
+    </item>
+    <item
+        jar="/Users/pngai/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.0/489b7552dd3322b63f694122d16ce62c21c303b5/jackson-databind-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/jackson-databind-2.5.0-c3d1f2766d2829762e43e4c2464d1526d6c6a0cb.jar" />
+    </item>
+    <item
+        jar="/Users/pngai/Projects/UJamFitness/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8602df6094a4605d8ccead6798a30c6b49d3624a.jar" />
+    </item>
+    <item
+        jar="/Users/pngai/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.0-ffc0688fc5008b2f02f3aceb94ce87d62f7b7a2e.jar" />
+    </item>
+    <item
+        jar="/Users/pngai/Projects/UJamFitness/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/classes-1cadee210c50eab2af7e19e333c1aab700f9885f.jar" />
+    </item>
+    <item
+        jar="/Users/pngai/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.0/b2ece1bd57ac7b4c315b7505b65ac79cb1da4270/jackson-core-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/pngai/Projects/UJamFitness/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.0-b8edc4f48b9aaa92f3a0c9cd2b0e30ec9c952840.jar" />
+    </item>
+
+</items>

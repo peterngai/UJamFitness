@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ujam_intro_snap">
+
+    <RelativeLayout android:id="@+id/news_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="80dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="40dp"
+                    android:background="#85000000">
+        <ImageView
+                android:id="@+id/news_title_id"
+                android:src="@drawable/news_title"
+                android:layout_marginTop="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_height="89px"
+                android:layout_width="750px"/>
+
+        <TextView
+                android:id="@+id/news_topic1"
+                android:layout_below="@+id/news_title_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="55dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="20dp"
+                android:text="New Workshops Added"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#fd990a"/>
+        <TextView
+                android:id="@+id/news_item1"
+                android:layout_below="@+id/news_topic1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingLeft="25dp"
+                android:paddingRight="20dp"
+                android:text="Check the web at www.ujamfitness.com to sign up to become an instructor."
+                android:textSize="16dp"
+                android:gravity="center"
+                android:textColor="#ffffff"/>
+
+        <TextView
+                android:id="@+id/news_topic2"
+                android:layout_below="@+id/news_item1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:paddingTop="30dp"
+                android:paddingLeft="25dp"
+                android:paddingRight="20dp"
+                android:text="Check Out Co-Founder Suzy C at Dance Blvd"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#fd990a"/>
+        <TextView
+                android:id="@+id/news_item2"
+                android:layout_below="@+id/news_topic2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingLeft="25dp"
+                android:paddingRight="20dp"
+                android:text="Come try U-Jam with Suzy C on Saturdays @ 9:00am or Wednesdays @ 6:00am"
+                android:textSize="16dp"
+                android:gravity="center"
+                android:textColor="#ffffff"/>
+        <TextView
+                android:id="@+id/news_item2_1"
+                android:layout_below="@+id/news_item2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:paddingLeft="25dp"
+                android:paddingRight="20dp"
+                android:text="Dance Blvd - 1824 Hillsdale Avenue, San Jose"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:gravity="center"
+                android:textColor="#ffffff"/>
+
+    </RelativeLayout>
+    <!-- Transparent layer -->
+    <!--<RelativeLayout-->
+            <!--android:id="@+id/transparentOverlay"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="200dp"-->
+            <!--android:background="#2000" />-->
+
+</RelativeLayout>
